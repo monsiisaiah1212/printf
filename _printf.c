@@ -63,4 +63,3 @@ void print_buffer(char buffer[], int *buff_ind)
 
         *buff_ind = 0;
 }
--- INSERT --                                                              65,1          Bo
